@@ -1,0 +1,27 @@
+#logo{float: left;}
+#head{background-color: black;color: deepskyblue;}
+.nav1{background-color:lightblue;list-style-type:disc;text-align: center;padding: auto;}
+.nav1 li{font-size: large;padding:15px;text-align:center;display:inline-block}
+#miss{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;color: rgb(124, 45, 45);}
+#tab{background-color: lightsalmon;color: maroon;}
+.nav2{background-color:mediumspringgreen;list-style-type:disc;text-align: center;padding: auto;}
+.nav2 li{font-size: large;padding:15px;text-align:centre;display:inline-block}
+#mal{background-color: slateblue;color:palegreen}
+.nav3{background-color:turquoise;list-style-type:disc;text-align: center;padding: auto;}
+.nav3 li{font-size: large;padding:15px;text-align:center;display:inline-block}
+#abt{background-color: peachpuff;color:teal}
+.nav4{background-color:violet;list-style-type:disc;text-align: center;padding: auto;}
+.nav4 li{font-size: large;padding:15px;text-align:center;display:inline-block}
+#lab{background-color: tomato;color: purple;}
+.nav5{background-color:violet;list-style-type:disc;text-align: center;padding: auto;}
+.nav5 li{font-size: large;padding:15px;text-align:center;display:inline-block}
+#io{color: steelblue;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+.column {float: left; width: 30%; padding: 5px;}
+.eff{color: teal;}
+#im1{background-color:floralwhite;}
+.para{font-size: xx-large;}
+#im2{background-color:blanchedalmond;}
+#im3{background-color:oldlace}
+#im4{background-color: peachpuff;}
+#im5{background-color:thistle;}
+.sol{color:brown}
